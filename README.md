@@ -1,7 +1,9 @@
-### Basic Project
+### Ishape
 
-## March, 26 2016
+## April 6, 2016
 
-Create a Maven structure on GitHub, clone it to your local Repo and update it
+Java
+Maven
+Git
 
 [Michael Zhestkov](mailto:michaelzhestkov@gmail.com)
